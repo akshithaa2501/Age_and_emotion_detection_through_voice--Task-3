@@ -29,6 +29,7 @@ Senior Male Upload: Shows the age, tags him as a "Senior Citizen", and draws a c
 
 🛠️ How to Setup and Run in VS CodeStep
 
+
 Step 1: Open Your Project in VS Code
 Open VS Code.Go to the top menu and select File -> Open Folder.
 
