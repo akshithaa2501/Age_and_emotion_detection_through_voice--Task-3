@@ -4,9 +4,7 @@ This app blocks female voices with an error message and processes male voices by
 📋 Project Summary
 1. The Problem (What the app does)
 This app automatically sorts voice recordings using two strict rules:
-
 Rule 1 (Gender Rule): The app only allows Male voices. If a Female voice is detected, it stops and shows a red error message: "Upload male voice."
-
 Rule 2 (Age Rule): If it is a male voice, it calculates his age. If he is under 60, it only shows his age. If he is above 60, it labels him as a Senior Citizen, detects his emotion, and displays a colorful emotion bar graph.
 
 2. Methodology (How it works behind the scenes)
